@@ -18,7 +18,7 @@ This is a simple yet effective landing page for a food ordering website, built u
 You can use this landing page as a foundation for creating food ordering platforms or other websites requiring a similar layout. Feel free to modify the content and styles to suit your needs.
 ## Installation
 
-Clone this repository and open the index.html file in your browser to view the landing page.
+Clone this repository and open the `index.html` file in your browser to view the landing page.
 
 
 
